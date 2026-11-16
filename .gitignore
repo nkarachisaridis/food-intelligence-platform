@@ -1,0 +1,10 @@
+data/
+*.parquet
+*.duckdb
+.env
+.ipynb_checkpoints/
+__pycache__/
+dbt/target/
+dbt/logs/
+.terraform/
+*.tfstate*
